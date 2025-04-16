@@ -6,8 +6,4 @@ langchain_community
 langchain_text_splitters
 semantic_router
 pinecone
-pymupdf
-os
-re
-requests
 typing
